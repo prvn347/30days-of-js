@@ -61,5 +61,3 @@ inputUser2.question("enter a number between 1 - 7", (ans) => {
 
   inputUser2.close();
 });
-
-// addition comment to test git
